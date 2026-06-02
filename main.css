@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(/images/background.jpg);
+    background-image: url("./images/background.jpg");
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,7 +14,7 @@ body{
 }
 
 .Calculator{
-    background-image: url(/images/button2.png);
+    background-image: url("./images/button2.png");
     position: relative;
     width: 566px;
     height: 850px;
